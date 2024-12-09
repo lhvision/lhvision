@@ -34,13 +34,10 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 57 mins        █████████████░░░░░░░░░░░░   53.73 % 
-CSS                      1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.25 % 
-TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -53,5 +50,5 @@ TypeScript               2 repos             ██████████░�
 
 
 
- Last Updated on 08/12/2024 00:57:07 UTC
+ Last Updated on 09/12/2024 00:54:50 UTC
 <!--END_SECTION:waka-->
