@@ -34,10 +34,12 @@ Sunday                   7 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              ███████████░░░░░░░░░░░░░░   45.03 % 
+TSConfig                 0 secs              ███████████░░░░░░░░░░░░░░   44.10 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -50,5 +52,5 @@ JavaScript               3 repos             ███████████�
 
 
 
- Last Updated on 03/06/2025 00:57:53 UTC
+ Last Updated on 04/06/2025 00:57:41 UTC
 <!--END_SECTION:waka-->
