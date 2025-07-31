@@ -3,8 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhvision"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2059%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.2%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -54,5 +52,5 @@ JavaScript               3 repos             ███████████�
 
 
 
- Last Updated on 30/07/2025 01:02:20 UTC
+ Last Updated on 31/07/2025 01:02:19 UTC
 <!--END_SECTION:waka-->
