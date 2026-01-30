@@ -34,10 +34,10 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -50,5 +50,5 @@ TypeScript               2 repos             ██████████░�
 
 
 
- Last Updated on 29/01/2026 01:20:29 UTC
+ Last Updated on 30/01/2026 01:19:51 UTC
 <!--END_SECTION:waka-->
