@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhvision"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.44%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -34,14 +34,11 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TOML                     9 mins              ████████░░░░░░░░░░░░░░░░░   33.89 % 
-JSON                     8 mins              ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Rust                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+JSON                     8 mins              █████████████████░░░░░░░░   66.36 % 
+Other                    4 mins              ████████░░░░░░░░░░░░░░░░░   33.64 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -54,5 +51,5 @@ TypeScript               2 repos             ██████████░�
 
 
 
- Last Updated on 03/03/2026 01:25:03 UTC
+ Last Updated on 04/03/2026 01:20:16 UTC
 <!--END_SECTION:waka-->
