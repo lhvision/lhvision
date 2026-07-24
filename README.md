@@ -3,8 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhvision"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%207%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.02%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -34,7 +32,7 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -50,5 +48,5 @@ TypeScript               2 repos             ██████████░�
 
 
 
- Last Updated on 23/07/2026 02:02:37 UTC
+ Last Updated on 24/07/2026 01:58:07 UTC
 <!--END_SECTION:waka-->
