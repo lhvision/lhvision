@@ -36,16 +36,36 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 11 mins        █████████████████░░░░░░░░   68.81 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 33 mins (32.48%)
+
+✍️ 0 lines written by AI, 965 lines written by hand (0.0% AI-written)
+
+🔤 51,646 Input Tokens, 215 Output Tokens
+
+💵 $0.16 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 5 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 17 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,5 +78,5 @@ TypeScript               2 repos             ██████████░�
 
 
 
- Last Updated on 09/08/2026 01:05:38 UTC
+ Last Updated on 10/08/2026 01:07:20 UTC
 <!--END_SECTION:waka-->
