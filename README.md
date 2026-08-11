@@ -3,9 +3,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhvision"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97.02%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -36,36 +36,36 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        █████████████████░░░░░░░░   68.81 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+TypeScript               2 hrs 14 mins       ██████████████████░░░░░░░   72.06 % 
+JSON                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (32.48%)
+⏱ AI Coding Time: 1 hr 11 mins (38.36%)
 
-✍️ 0 lines written by AI, 965 lines written by hand (0.0% AI-written)
+✍️ 38 lines written by AI, 1,306 lines written by hand (2.83% AI-written)
 
-🔤 51,646 Input Tokens, 215 Output Tokens
+🔤 137,652 Input Tokens, 17,932 Output Tokens
 
-💵 $0.16 Estimated AI Cost This Week
+💵 $1.62 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 5 AI Prompts
+🧠 8 AI Sessions, 14 AI Prompts
 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 38 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 17 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.83% of written lines came from AI
+📝 Concise Prompter — average 26 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 97.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +78,5 @@ TypeScript               2 repos             ██████████░�
 
 
 
- Last Updated on 10/08/2026 01:07:20 UTC
+ Last Updated on 11/08/2026 01:06:29 UTC
 <!--END_SECTION:waka-->
