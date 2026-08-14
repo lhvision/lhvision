@@ -36,36 +36,37 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ██████████████████░░░░░░░   72.06 % 
-JSON                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+TypeScript               2 hrs 47 mins       ███████████████████░░░░░░   75.23 % 
+JSON                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Windows                  3 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       ███████████████████████░░   90.84 % 
+WSL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (38.36%)
+⏱ AI Coding Time: 1 hr 30 mins (40.83%)
 
-✍️ 38 lines written by AI, 1,306 lines written by hand (2.83% AI-written)
+✍️ 38 lines written by AI, 1,313 lines written by hand (2.81% AI-written)
 
-🔤 137,652 Input Tokens, 17,932 Output Tokens
+🔤 159,075 Input Tokens, 18,206 Output Tokens
 
-💵 $1.62 Estimated AI Cost This Week
+💵 $1.76 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 14 AI Prompts
+🧠 10 AI Sessions, 18 AI Prompts
 
 Deepseek                 38 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.83% of written lines came from AI
-📝 Concise Prompter — average 26 characters per prompt
+🧑‍💻 Mostly Hands-On — 2.81% of written lines came from AI
+📝 Concise Prompter — average 32 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.32% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +79,5 @@ TypeScript               2 repos             ██████████░�
 
 
 
- Last Updated on 13/08/2026 01:16:12 UTC
+ Last Updated on 14/08/2026 01:15:13 UTC
 <!--END_SECTION:waka-->
