@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhvision&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhvision)](https://github.com/stats-organization/github-stats-extended)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2043%20mins-blue?style=flat)
