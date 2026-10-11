@@ -36,15 +36,14 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-TypeScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+JavaScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+TypeScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 💻 Operating System: 
-WSL                      2 hrs 41 mins       ████████████████████████░   96.38 % 
-Windows                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+WSL                      2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,5 +63,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 03:38:34 UTC
+ Last Updated on 11/10/2026 03:11:33 UTC
 <!--END_SECTION:waka-->
