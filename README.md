@@ -36,20 +36,34 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-TypeScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+TypeScript               1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   37.97 % 
+Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+JavaScript               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+JSON                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 
 💻 Operating System: 
-WSL                      2 hrs 39 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 mins (2.19%)
+
+✍️ 0 lines written by AI, 2,143 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 246 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -63,5 +77,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 03:11:33 UTC
+ Last Updated on 12/10/2026 03:34:39 UTC
 <!--END_SECTION:waka-->
