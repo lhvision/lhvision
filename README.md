@@ -3,9 +3,9 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhvision)](https://github.com/stats-organization/github-stats-extended)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-283.35%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -13,20 +13,20 @@
 
 ```text
 🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-🌆 Daytime                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-🌃 Evening                159 commits         ████████░░░░░░░░░░░░░░░░░   31.93 % 
-🌙 Night                  246 commits         ████████████░░░░░░░░░░░░░   49.40 % 
+🌆 Daytime                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+🌃 Evening                159 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
+🌙 Night                  247 commits         ████████████░░░░░░░░░░░░░   49.50 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Tuesday                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Thursday                 77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Friday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Saturday                 103 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Monday                   38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Wednesday                90 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Thursday                 77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Friday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Saturday                 103 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 
@@ -36,22 +36,23 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   37.97 % 
-Markdown                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-JavaScript               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-JSON                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+TypeScript               2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
+JSON                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+JavaScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 💻 Operating System: 
-WSL                      4 hrs 20 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 27 mins       ████████████████████████░   94.36 % 
+Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (2.19%)
+⏱ AI Coding Time: 5 mins (1.64%)
 
-✍️ 0 lines written by AI, 2,143 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,875 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -77,5 +78,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:34:39 UTC
+ Last Updated on 13/10/2026 04:48:32 UTC
 <!--END_SECTION:waka-->
