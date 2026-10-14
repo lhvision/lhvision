@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhvision)](https://github.com/stats-organization/github-stats-extended)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2023%20mins-blue?style=flat)
 
@@ -36,23 +36,23 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
-JSON                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-JavaScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+TypeScript               3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
+JSON                     1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+JavaScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 27 mins       ████████████████████████░   94.36 % 
-Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+WSL                      7 hrs 9 mins        ████████████████████████░   95.65 % 
+Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (1.64%)
+⏱ AI Coding Time: 5 mins (1.27%)
 
-✍️ 0 lines written by AI, 2,875 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,702 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -78,5 +78,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 04:48:32 UTC
+ Last Updated on 14/10/2026 02:56:23 UTC
 <!--END_SECTION:waka-->
