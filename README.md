@@ -36,23 +36,23 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.31 % 
-JSON                     1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TypeScript               3 hrs               ███████████████░░░░░░░░░░   59.22 % 
+JSON                     1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-WSL                      6 hrs 33 mins       ████████████████████████░   95.27 % 
-Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+WSL                      4 hrs 45 mins       ███████████████████████░░   93.59 % 
+Windows                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (1.38%)
+⏱ AI Coding Time: 5 mins (1.87%)
 
-✍️ 0 lines written by AI, 3,653 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,114 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -78,5 +78,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 02:35:40 UTC
+ Last Updated on 16/10/2026 02:30:40 UTC
 <!--END_SECTION:waka-->
