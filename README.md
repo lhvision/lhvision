@@ -3,9 +3,9 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhvision)](https://github.com/stats-organization/github-stats-extended)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-286.72%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -36,29 +36,29 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
-JSON                     3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-YAML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Markdown                 6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
+JSON                     4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+YAML                     3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Docker                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 💻 Operating System: 
-WSL                      11 hrs 24 mins      ██████████████████░░░░░░░   72.11 % 
-Windows                  4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+WSL                      16 hrs 27 mins      ███████████████████░░░░░░   76.86 % 
+Windows                  4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 15 mins (71.17%)
+⏱ AI Coding Time: 16 hrs 12 mins (75.7%)
 
-✍️ 0 lines written by AI, 2,633 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,898 lines written by hand (0.0% AI-written)
 
-🔤 3,651,768 Input Tokens, 309,374 Output Tokens
+🔤 3,946,535 Input Tokens, 318,840 Output Tokens
 
-💵 $11.00 Estimated AI Cost This Week
+💵 $11.70 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 254 AI Prompts
+🧠 73 AI Sessions, 399 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -66,7 +66,7 @@ M                        0 lines             ░░░░░░░░░░░�
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 262 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -81,5 +81,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 02:42:23 UTC
+ Last Updated on 23/10/2026 02:46:23 UTC
 <!--END_SECTION:waka-->
