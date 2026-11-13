@@ -3,6 +3,10 @@
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhvision)](https://github.com/stats-organization/github-stats-extended)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-283%20hrs%2019%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-294.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -32,36 +36,36 @@ Sunday                   60 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-Markdown                 1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-YAML                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Vue                      2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+YAML                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+JSON                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
 💻 Operating System: 
-WSL                      8 hrs 17 mins       ████████████████████████░   96.26 % 
-Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+WSL                      10 hrs 17 mins      ████████████████████████░   96.97 % 
+Windows                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 42 mins (89.64%)
+⏱ AI Coding Time: 9 hrs 33 mins (89.99%)
 
 ✍️ 0 lines written by AI, 37 lines written by hand (0.0% AI-written)
 
-🔤 1,016,793 Input Tokens, 49,549 Output Tokens
+🔤 1,016,371 Input Tokens, 49,821 Output Tokens
 
-💵 $2.63 Estimated AI Cost This Week
+💵 $2.93 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 166 AI Prompts
+🧠 22 AI Sessions, 214 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -76,5 +80,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 14:26:36 UTC
+ Last Updated on 13/11/2026 04:24:17 UTC
 <!--END_SECTION:waka-->
